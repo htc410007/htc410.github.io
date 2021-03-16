@@ -9,7 +9,7 @@
 title: "htc的技术专栏"
 brief-intro: "System Research"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://htc410.github.io" # the base hostname & protocol for your site
+url: "https://htc410007.github.io/htc410.github.io/" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
@@ -76,5 +76,3 @@ excerpt_separator: "\n\n\n\n"
 plugins: [jekyll-paginate]
 paginate: 6
 port: 4001
-
-theme: jekyll-theme-modernist
